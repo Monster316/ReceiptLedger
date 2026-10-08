@@ -1,3 +1,5 @@
+[![Node.js Tests](https://github.com/Monster316/ReceiptLedger/actions/workflows/tests.yml/badge.svg)](https://github.com/Monster316/ReceiptLedger/actions/workflows/tests.yml)
+
 # ReceiptLedger
 
 > Experimental developer utility · standalone JavaScript · Node.js 20+
